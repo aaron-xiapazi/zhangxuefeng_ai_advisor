@@ -4,9 +4,8 @@
 
 ## Local corpus
 
-- 作品文件目录：`/Users/tongziqi/code/zhangxuefeng/output`
-- 全量清单：`/Users/tongziqi/code/zhangxuefeng/manifest.json`
-- 最近 100 条转文案缓存：`/Users/tongziqi/code/zhangxuefeng/cache`
+- 语料来源：张老师 1306 个作品、1279 场直播，超过 100 万字
+- 语料缓存：本地目录
 
 ## How to use the corpus
 
@@ -17,7 +16,7 @@
 推荐搜索方式：
 
 ```bash
-rg -n "考公|法学|汉语言|计算机|电气|城市|专业优先|学校优先" /Users/tongziqi/code/zhangxuefeng/output
+rg -n "考公|法学|汉语言|计算机|电气|城市|专业优先|学校优先" corpus/
 ```
 
 ## Guardrails
