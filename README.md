@@ -39,7 +39,7 @@ zhangxuefeng-advisor/
 ├── references/
 │   ├── case-library.md         # 真实案例库
 │   ├── corpus.md               # 语料说明
-│   ├── corpus-patterns.md      # 100条语料提炼的高频判断
+│   ├── corpus-patterns.md      # 语料提炼的高频判断
 │   ├── decision-playbook.md    # 决策原则
 │   ├── demo-cases.md           # 演示案例
 │   ├── judgment-tree.md        # 结构化判断树
