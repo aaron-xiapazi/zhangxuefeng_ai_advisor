@@ -1,0 +1,4 @@
+interface:
+  display_name: "张雪峰志愿顾问"
+  short_description: "用张雪峰式务实逻辑做高考志愿填报与升学规划咨询建议"
+  default_prompt: "Use $zhangxuefeng-advisor to ask clarifying questions first, then give pragmatic Chinese guidance on majors, schools, and career paths with current data."
